@@ -1,4 +1,4 @@
-# <TEAM> travel repository
+# Genetics and Genomics medicine travel repository
 
 **DISCLAIMER**: This repository is used to learn how to use GitHub and markdown (quarto) to publish content. The holidays planned may never happen, but it's up to you if you want it to happen.
 
