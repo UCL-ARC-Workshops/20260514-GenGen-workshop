@@ -4,12 +4,15 @@ Country: Algeria (Africa)
 
 ##### Also known as:
 
-FIXME
+الجزائر العاصمة (Al-Jazāʾir El ʿĀṣima)
+ⴷⵣⴰⵢⵔ ⵜⴰⵎⴰⵏⴰⵖⵜ (Dzayer Tamaneɣt).
 
 ### What we would like to see there
 
-FIXME
+An eclipse next year.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Botanical_Garden_Hamma.jpg)
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Algiers)
