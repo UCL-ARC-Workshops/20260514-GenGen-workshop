@@ -7,9 +7,9 @@ Country: India (Asia)
 FIXME
 
 ### What we would like to see there
+Science city
 
-FIXME
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Kolkata)
