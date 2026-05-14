@@ -4,11 +4,11 @@ Country: Mongolia (Asia)
 
 ##### Also known as:
 
-FIXME
+Улаанбаатар
 
 ### What we would like to see there
 
-FIXME
+Gandantegchinlen Monastery
 
 ### Extra information
 
