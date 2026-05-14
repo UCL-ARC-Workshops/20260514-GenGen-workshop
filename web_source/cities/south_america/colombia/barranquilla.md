@@ -7,7 +7,7 @@ I tried to add an image...
 
 ##### Also known as:
 
-La Arenosa (meaning The Sandy)
+La Arenosa (meaning The Sandy) there's a lot of sand
 
 ### What we would like to see there
 
