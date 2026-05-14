@@ -4,12 +4,12 @@ Country: Finland (Europe)
 
 ##### Also known as:
 
-FIXME
+Åbo stad
 
 ### What we would like to see there
 
-FIXME
+snow
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Turku)
