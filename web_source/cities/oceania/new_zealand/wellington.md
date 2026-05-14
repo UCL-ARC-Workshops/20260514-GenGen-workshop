@@ -4,12 +4,12 @@ Country: New Zealand (Oceania)
 
 ##### Also known as:
 
-FIXME
+Te Whanganui-a-Tara
 
 ### What we would like to see there
 
-FIXME
+Wellington botanic gardens
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia]([https://wikipedia.org/wiki/Wellington]) 
